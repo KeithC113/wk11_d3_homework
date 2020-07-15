@@ -1,0 +1,5 @@
+1/ Provides a line in the code to pause and allow the debugger to kick in
+2/ Yes, it'll pause on the breakpoint then run the code when it kicks in
+3/ Use the 'Step Over' option within the console tools
+4/ Allows the debugger to step into that line of code/method
+5/ Evaluate Expression allows you to evaluate a line of code, call methods of instances of objects. Evaluate Code allows you to evaluate multiple lines of code and add temporary variables to test against. 
